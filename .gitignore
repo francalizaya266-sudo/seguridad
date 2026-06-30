@@ -1,0 +1,23 @@
+# -----------------------------------------------------------------------------
+# .gitignore - Examen Final Seguridad Informatica
+# Autor: fran franklin calizaya apaza  |  Subido por: fran
+# -----------------------------------------------------------------------------
+
+# Configuracion local de la herramienta Claude Code (no forma parte del examen)
+.claude/
+
+# Cache y artefactos de Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+venv-examen/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
