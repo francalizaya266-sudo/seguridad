@@ -1,0 +1,21 @@
+# Normalizacion de saltos de linea del repositorio
+# -----------------------------------------------------------------------------
+# Por defecto Git decide automaticamente que archivos son texto y normaliza sus
+# finales de linea a LF dentro del repositorio.
+* text=auto
+
+# Scripts que se ejecutan en Linux (VM del examen): SIEMPRE con LF, aunque se
+# editen desde Windows. Un CRLF en un .sh rompe el shebang (#!/bin/bash).
+*.sh    text eol=lf
+*.py    text eol=lf
+*.xml   text eol=lf
+*.json  text eol=lf
+*.csv   text eol=lf
+*.md    text eol=lf
+
+# Notebooks de Jupyter: tratarlos como texto para poder ver diffs.
+*.ipynb text eol=lf
+
+# Archivos binarios: nunca aplicar conversion de saltos de linea.
+*.png   binary
+*.pkl   binary
