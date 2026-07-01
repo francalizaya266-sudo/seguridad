@@ -22,7 +22,18 @@ Repositorio con el desarrollo de los cuatro laboratorios: análisis forense de l
 4. [Reproducción de cada laboratorio](#4-reproducción-de-cada-laboratorio)
 5. [Repositorio](#5-repositorio)
 
+📊 [Resumen de resultados](#resumen-de-resultados)
+
 Documentación por laboratorio: [Lab 1](lab1/README.md) · [Lab 2](lab2/README.md) · [Lab 3](lab3/README.md) · [Lab 4](lab4/README.md)
+
+## Resumen de resultados
+
+| Lab | Objetivo | Resultado clave |
+|-----|----------|-----------------|
+| **1** | Análisis forense de logs (Python) | 253 fallos SSH, 2 IPs sobre el umbral de fuerza bruta y 24 intentos de SQL Injection |
+| **2** | Reglas de correlación en Wazuh | Regla `100001` (fuerza bruta SSH, nivel 10) y `100014` (exfiltración de datos, nivel 14) |
+| **3** | Detección de anomalías (ML) | Isolation Forest con F1-Score de **0.876** (umbral óptimo) |
+| **4** | Dashboard de monitoreo SOC | 4 visualizaciones + monitor `soc-nivel-critico` (rule.level ≥ 10) |
 
 ---
 
