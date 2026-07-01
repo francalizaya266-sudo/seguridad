@@ -62,6 +62,15 @@ Acceso al Wazuh Dashboard desde el equipo anfitrión (Windows) vía reenvío de 
 | Librerías Python | pandas, numpy, scikit-learn, matplotlib, seaborn, joblib, jupyter |
 | Herramienta de dashboard | Wazuh Dashboard (OpenSearch Dashboards integrado) |
 
+### Tecnologías utilizadas
+
+- **Lenguaje:** Python 3.12
+- **Análisis de datos y ML:** pandas, numpy, scikit-learn (Isolation Forest), joblib
+- **Visualización:** matplotlib, seaborn
+- **SIEM / monitoreo:** Wazuh 4.9.2 (Manager + Indexer + Dashboard sobre OpenSearch)
+- **Entorno:** Ubuntu Server 24.04 LTS sobre Oracle VirtualBox, Jupyter Notebook
+- **Utilidades del sistema:** libxml2-utils (`xmllint`) para validar las reglas XML de Wazuh
+
 ### Comandos de configuración del entorno
 
     sudo apt update && sudo apt upgrade -y
