@@ -1,5 +1,11 @@
 # examen-practico
 
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-4.9.2-005792)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Isolation%20Forest-F7931E?logo=scikitlearn&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-24.04%20LTS-E95420?logo=ubuntu&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 **Autor:** fran franklin calizaya apaza
 **Subido por:** fran
 **Curso:** Seguridad Informática — Ciclo IX — Unidad IV
