@@ -182,3 +182,14 @@ Herramienta: Wazuh Dashboard (OpenSearch Dashboards), accesible en https://127.0
 ## 5. Repositorio
 
 https://github.com/francalizaya266-sudo/seguridad
+
+---
+
+## Autor
+
+**fran franklin calizaya apaza**
+Ingeniería de Sistemas — Seguridad Informática (Ciclo IX, Unidad IV)
+Examen Final — Monitoreo de Seguridad, SIEM e Inteligencia Artificial
+
+> Los datasets base provienen del repositorio oficial del curso:
+> https://github.com/abelthf/examen_final_seguridad_informatica
