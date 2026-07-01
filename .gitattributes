@@ -19,3 +19,4 @@
 # Archivos binarios: nunca aplicar conversion de saltos de linea.
 *.png   binary
 *.pkl   binary
+*.pdf   binary
