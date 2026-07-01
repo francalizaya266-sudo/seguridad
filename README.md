@@ -1,4 +1,4 @@
-# examen-practico-coila
+# examen-practico
 
 **Autor:** fran franklin calizaya apaza
 **Subido por:** fran
