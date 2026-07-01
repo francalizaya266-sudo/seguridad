@@ -54,7 +54,7 @@ Acceso al Wazuh Dashboard desde el equipo anfitrión (Windows) vía reenvío de 
 
 ## 3. Estructura del repositorio
 
-    examen-practico-coila/
+    examen-practico/
     ├── README.md
     ├── lab1/
     │   ├── analizar_ssh.py
