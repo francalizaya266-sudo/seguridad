@@ -8,6 +8,16 @@
 
 Repositorio con el desarrollo de los cuatro laboratorios: análisis forense de logs con Python, reglas de correlación en Wazuh, modelo de detección de anomalías con Machine Learning y dashboard de monitoreo SOC.
 
+## Índice
+
+1. [Arquitectura del laboratorio](#1-arquitectura-del-laboratorio)
+2. [Entorno y versiones](#2-entorno-y-versiones)
+3. [Estructura del repositorio](#3-estructura-del-repositorio)
+4. [Reproducción de cada laboratorio](#4-reproducción-de-cada-laboratorio)
+5. [Repositorio](#5-repositorio)
+
+Documentación por laboratorio: [Lab 1](lab1/README.md) · [Lab 2](lab2/README.md) · [Lab 3](lab3/README.md) · [Lab 4](lab4/README.md)
+
 ---
 
 ## 1. Arquitectura del laboratorio
