@@ -88,6 +88,9 @@ Acceso al Wazuh Dashboard desde el equipo anfitrión (Windows) vía reenvío de 
 
 ## 4. Reproducción de cada laboratorio
 
+Cada laboratorio tiene además su propio README con el detalle:
+[Lab 1](lab1/README.md) · [Lab 2](lab2/README.md) · [Lab 3](lab3/README.md) · [Lab 4](lab4/README.md)
+
 Los datasets provienen del repositorio oficial del curso: https://github.com/abelthf/examen_final_seguridad_informatica
 
     git clone --depth 1 https://github.com/abelthf/examen_final_seguridad_informatica.git /tmp/curso
